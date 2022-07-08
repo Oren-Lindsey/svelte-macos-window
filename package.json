@@ -1,6 +1,6 @@
 {
   "name": "svelte-macos-window",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Draggable, macOS style windows for svelte",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
