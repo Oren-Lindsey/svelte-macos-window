@@ -64,7 +64,7 @@
             <p class="title-text">{title}</p>
         </div>
     </div>
-    <div id="content">
+    <div id="content" style="min-height: fit-content;">
         <slot />
     </div>
 </div>
