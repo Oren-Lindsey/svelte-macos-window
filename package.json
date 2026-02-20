@@ -16,7 +16,7 @@
     "rollup": "^4.22.4",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-svelte": "^7.1.0",
-    "svelte": "^3.48.0"
+    "svelte": "^5.53.0"
   },
   "dependencies": {
     "@neodrag/svelte": "^1.2.3"
